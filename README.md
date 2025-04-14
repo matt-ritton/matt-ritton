@@ -13,10 +13,10 @@
 ---
 
 <a href="https://github.com/matt-ritton">
-  <img height=188 align="center" src="https://github-readme-stats.vercel.app/api?username=matt-ritton&theme=merko" />
+  <img height=172 align="center" src="https://github-readme-stats.vercel.app/api?username=matt-ritton&theme=merko" />
 </a>
 <a href="https://github.com/matt-ritton">
-  <img height=188 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matt-ritton&layout=compact&langs_count=8&card_width=360&&theme=merko" />
+  <img height=172 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matt-ritton&layout=compact&langs_count=8&card_width=360&&theme=merko" />
 </a>
 
 ---
