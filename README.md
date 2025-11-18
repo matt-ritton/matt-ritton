@@ -4,7 +4,7 @@
 
 ## Hi! I'm Matheus Ritton!👋
 
-<p align="justify">I'm an Information Systems student at Universidade Federal Rural do Rio de Janeiro. Currently I'm interested and focused in areas such as Artificial Intelligence, Web Systems, UI/UX Design and Game Development.
+<p align="justify">I'm an Information Systems student currently work on both academic and personal projects related to the areas of Artificial Intelligence and Mobile Development.
 
 [![mailto:matheus.ritton@hotmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.ritton@hotmail.com)
 [![https://www.linkedin.com/in/matheus-ritton/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ritton/)
